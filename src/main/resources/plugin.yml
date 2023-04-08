@@ -1,0 +1,5 @@
+name: GB-PROXY-PASSER
+main: com.gb.Main
+version: 0.0.1-SNAPSHOT
+api: 1.17.1
+api-version: 17
