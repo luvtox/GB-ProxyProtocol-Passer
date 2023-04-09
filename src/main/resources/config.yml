@@ -1,5 +1,0 @@
-# Enable or disable PassProxy
-enabled: true
-
-# Enable or disable debug mode
-debug: false
